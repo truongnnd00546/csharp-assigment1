@@ -1,0 +1,11 @@
+C:\Users\LAPTOP\RiderProjects\InternetBanking\HL_Bank\bin\Debug\netcoreapp2.0\HL_Bank.deps.json
+C:\Users\LAPTOP\RiderProjects\InternetBanking\HL_Bank\bin\Debug\netcoreapp2.0\HL_Bank.runtimeconfig.json
+C:\Users\LAPTOP\RiderProjects\InternetBanking\HL_Bank\bin\Debug\netcoreapp2.0\HL_Bank.runtimeconfig.dev.json
+C:\Users\LAPTOP\RiderProjects\InternetBanking\HL_Bank\bin\Debug\netcoreapp2.0\HL_Bank.dll
+C:\Users\LAPTOP\RiderProjects\InternetBanking\HL_Bank\bin\Debug\netcoreapp2.0\HL_Bank.pdb
+C:\Users\LAPTOP\RiderProjects\InternetBanking\HL_Bank\obj\Debug\netcoreapp2.0\HL_Bank.csprojAssemblyReference.cache
+C:\Users\LAPTOP\RiderProjects\InternetBanking\HL_Bank\obj\Debug\netcoreapp2.0\HL_Bank.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP\RiderProjects\InternetBanking\HL_Bank\obj\Debug\netcoreapp2.0\HL_Bank.AssemblyInfoInputs.cache
+C:\Users\LAPTOP\RiderProjects\InternetBanking\HL_Bank\obj\Debug\netcoreapp2.0\HL_Bank.AssemblyInfo.cs
+C:\Users\LAPTOP\RiderProjects\InternetBanking\HL_Bank\obj\Debug\netcoreapp2.0\HL_Bank.dll
+C:\Users\LAPTOP\RiderProjects\InternetBanking\HL_Bank\obj\Debug\netcoreapp2.0\HL_Bank.pdb
